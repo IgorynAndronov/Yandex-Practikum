@@ -1,1 +1,1 @@
-# Yandex-Practikum-
+# Yandex-Practikum
